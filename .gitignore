@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/build/
+/ParseStarterProject/build/
+/ParseStarterProject/build/intermediates/javac/debug/classes/
+# Project exclude paths
+/PhotoSharing/build/
+/PhotoSharing/build/intermediates/javac/debug/classes/
